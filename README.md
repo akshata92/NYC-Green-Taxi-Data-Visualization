@@ -12,3 +12,4 @@ Let’s take a dive into their performance:
 # New York Green Taxi Visualizations
 
 1. General trends in the performance of Green Taxi for Jan-June 2016.
+![alt text](https://raw.githubusercontent.com/NYC-Green-Taxi-Data-Visualization/Visualizations/01 General Stats.png)
