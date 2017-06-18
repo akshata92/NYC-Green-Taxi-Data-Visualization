@@ -1,4 +1,4 @@
-setwd("C:\\Users\\akshata\\Documents\\data")
+setwd("C:\\Users\\akshata\\Documents\\DataVizProject\\data")
 
 file <- "green_tripdata_2016-06.csv"
 
