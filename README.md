@@ -25,21 +25,21 @@ Line graph shows that the maximum number of pickups from January - June 2016 occ
 <br>
 The road for Green taxis had been difficult for many reasons, primarily being the no hail southern manhattan zone. With the introduction of ‘Go Arro’ and ‘Way2ride’ apps around Aug 2015, things changed. The ridership of Green Taxi increased in the latter half of 2015, but after the initial boost however, the number of trips have been decreasing steadily for last few months starting March 2016.
 
-# 3.  Drop in the number of trips similar for every borough
+## 3.  Drop in the number of trips similar for every borough
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/03%20Dropoffs%20in%20New%20York%20Boroughs.png">
 <br>
 
 The drop patterns followed a similar trend across the boroughs with the number of trips increasing from August 2015 and uniformly decreasing starting March 2016.
 
-# 4. Is Green Taxi serving the outer Boroughs well?
+## 4. Is Green Taxi serving the outer Boroughs well?
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/04%20Pickup%20locations%20in%20New%20York%20Boroughs.png">
 <br>
 
 About 50% of the total pickups occurred in the highlighted regions of Brooklyn and central Manhattan, showing that the regions away towards the outer boroughs were highly underserved.
 
-# 5.  Like pickups, the drop locations are concentrated too
+## 5.  Like pickups, the drop locations are concentrated too
 
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/05%20Dropoff%20locations%20in%20New%20York%20Boroughs.png">
@@ -47,7 +47,7 @@ About 50% of the total pickups occurred in the highlighted regions of Brooklyn a
 
 Almost all the drops occur in the regions where the passengers were picked up from. The map shows the where the drop locations of 50% of the taxi pickups were.
 
-# 6. Taxi flow mostly one directional
+## 6. Taxi flow mostly one directional
 
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/06%20Network%20-%20Inter-Borough%20Taxi%20Flow.png">
@@ -55,7 +55,7 @@ Almost all the drops occur in the regions where the passengers were picked up fr
 
 Majority of Inter-Borough taxi traffic flows towards Southern Manhattan. Since Green Taxi is not allowed to pickup passangers from Southern Manhattan, they are not only missing on the trips originating from Southern Manhattan to the outer boroughs, but also they stuck in traffic, and lose time while returning empty from the area.
 
-# 7. The Yellow Taxi at par with the Green Taxi in serving outer Boroughs.
+## 7. The Yellow Taxi at par with the Green Taxi in serving outer Boroughs.
 
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/07%20Green%20Vs%20Yello%20Pickups.png">
@@ -63,7 +63,7 @@ Majority of Inter-Borough taxi traffic flows towards Southern Manhattan. Since G
 
 For Green Taxicabs, most of the pickups were centered on Southern Manhattan and the nearby area. Bronx is comparatively underserved to the other boroughs. The Yellow taxis follow a similar pickup pattern but the number of pickups in the Northern Manhattan region are much more as compared to the Green taxis. This reports that Green taxis are failing to keep up in regions even where maximum pickups occur and lose revenue to Yellow and other taxis.
 
-# 8. Fading difference between the Yellow and the Green Taxi
+## 8. Fading difference between the Yellow and the Green Taxi
 
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/08%20Green%20Vs%20Yello%20Dropoffs.png">
