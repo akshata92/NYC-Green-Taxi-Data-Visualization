@@ -13,5 +13,5 @@ Let’s take a dive into their performance:
 
 1. General trends in the performance of Green Taxi for Jan-June 2016.
 <br>
-<img height="400" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/01%20General%20Stats.png">
+<img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/01%20General%20Stats.png">
 <br>
