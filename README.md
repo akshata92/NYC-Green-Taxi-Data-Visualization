@@ -1,5 +1,5 @@
 # The Green Taxi - Not So Green Anymore?
-A Tableau based visual storytelling by Akshata Salehittal and Gaurav Shahane of University of Maryland College Park
+A Tableau based visual storytelling.
 
 New York loves its taxicabs.
 
