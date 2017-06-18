@@ -15,3 +15,12 @@ Let’s take a dive into their performance:
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/01%20General%20Stats.png">
 <br>
+Line graph shows that the maximum number of pickups from January - June 2016 occurred in Brooklyn with number of trips being about 3.5M and revenue being $ 55M, the highest of all boroughs. The month-wise pickups show that most of the pickups were around Brooklyn, Northern Manhattan and Queens, while the outer boroughs (Bronx and Staten Island) did not experience much pickups.
+
+2. Declining Green Taxi trip numbers 
+<br>
+<img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/02%20Pickups%20in%20New%20York%20Boroughs.png">
+<br>
+The road for Green taxis had been difficult for many reasons, primarily being the no hail southern manhattan zone. With the introduction of ‘Go Arro’ and ‘Way2ride’ apps around Aug 2015, things changed. The ridership of Green Taxi increased in the latter half of 2015, but after the initial boost however, the number of trips have been decreasing steadily for last few months starting March 2016.
+
+3. 
