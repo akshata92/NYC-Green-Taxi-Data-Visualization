@@ -11,14 +11,14 @@ Let’s take a dive into their performance:
 
 # New York Green Taxi Visualizations
 
-# 1. General trends in the performance of Green Taxi for Jan-June 2016.
+## 1. General trends in the performance of Green Taxi for Jan-June 2016.
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/01%20General%20Stats.png">
 <br>
 Line graph shows that the maximum number of pickups from January - June 2016 occurred in Brooklyn with number of trips being about 3.5M and revenue being $ 55M, the highest of all boroughs. The month-wise pickups show that most of the pickups were around Brooklyn, Northern Manhattan and Queens, while the outer boroughs (Bronx and Staten Island) did not experience much pickups.
 
 
-# 2. Declining Green Taxi trip numbers 
+## 2. Declining Green Taxi trip numbers 
 
 <br>
 <img height="500" src="https://github.com/akshata92/NYC-Green-Taxi-Data-Visualization/blob/master/Visualizations/02%20Pickups%20in%20New%20York%20Boroughs.png">
